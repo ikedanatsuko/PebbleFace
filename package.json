@@ -1,0 +1,33 @@
+{
+    "author": "natsu950821@yahoo.co.jp",
+    "dependencies": {},
+    "keywords": [],
+    "name": "utgwwatch",
+    "pebble": {
+        "displayName": "UtgwWatch",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/pyramid_color.png",
+                    "menuIcon": true,
+                    "name": "IMAGE_BACKGROUND",
+                    "targetPlatforms": null,
+                    "type": "png"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "4e3e8616-62b1-45b0-a2df-06574a7881e2",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
