@@ -1,21 +1,92 @@
 {
-    "author": "natsu950821@yahoo.co.jp",
+    "author": "Natsuko Utagawa",
     "dependencies": {},
     "keywords": [],
-    "name": "utgwwatch",
+    "name": "utgwwatch_img",
     "pebble": {
-        "displayName": "UtgwWatch",
+        "displayName": "UtgwWatch_IMG",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "native",
         "resources": {
             "media": [
                 {
-                    "file": "images/pyramid_color.png",
-                    "menuIcon": true,
-                    "name": "IMAGE_BACKGROUND",
+                    "file": "images/num_image0_2.png",
+                    "name": "IMAGE_NUM_02",
                     "targetPlatforms": null,
                     "type": "png"
+                },
+                {
+                    "file": "images/num_image0_1.png",
+                    "name": "IMAGE_NUM_01",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/numc9.png",
+                    "name": "IMAGE_NUM_9",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/numc8.png",
+                    "name": "IMAGE_NUM_8",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/numc7.png",
+                    "name": "IMAGE_NUM_7",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/numc6.png",
+                    "name": "IMAGE_NUM_6",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/numc5.png",
+                    "name": "IMAGE_NUM_5",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/numc4.png",
+                    "name": "IMAGE_NUM_4",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/numc3.png",
+                    "name": "IMAGE_NUM_3",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/numc2.png",
+                    "name": "IMAGE_NUM_2",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/numc1.png",
+                    "name": "IMAGE_NUM_1",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/num0.png",
+                    "name": "NUM_0",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "images/pyramid_color.png",
+                    "name": "IMAGE_BACKGROUND",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
                 }
             ]
         },
